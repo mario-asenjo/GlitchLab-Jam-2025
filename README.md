@@ -1,2 +1,8 @@
-# GlitchLab-Jam-2025
-Repositorio para la JAM de Junio de 2025 del Club de FP de Videojuegos de la Universidad Alfonso X el Sabio
+> ### Autor: MARIO ASENJO PÉREZ
+> ### Ciclo: 1º DAM
+> ### JAM: GlitchLab-Jam-2025
+#### Repositorio para la JAM de Junio de 2025 del Club de FP de Videojuegos de la Universidad Alfonso X el Sabio
+> ## Idea:
+> #### Un joven pirata, en busca del tesoro más preciado de todos los mares, "El gran tesoro de Oiram". Se dice que el tesoro otorga a la persona que lo encuentre poderes irreales, de otro mundo....
+> #### Nuestro aliado deberá ascender y ascender hasta encontrar el tesoro en los niveles que encuentre.....
+> #### ¿Que nos aguardará la cima? Solo nuestros pasos podrán contarlo...
